@@ -1,6 +1,6 @@
-title : CodinGame Onboarding
+title : Ternary Operator
 plan:
-  - title: CodinGame Challenge 
+  - title: Ternary Operator 
     statement: challenge.md
 projects:
   sologame:
