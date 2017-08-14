@@ -1,4 +1,4 @@
-# Discover the ternary operator
+# Discover the Ternary Operator
 
 In computer programming, **?:** is a ternary operator that is part of the syntax for a basic conditional expression in several programming languages. It is commonly referred to as the conditional operator, inline if (iif), or ternary if.
 
