@@ -1,0 +1,10 @@
+title : CodinGame Onboarding
+plan:
+  - title: CodinGame Challenge 
+    statement: challenge.md
+projects:
+  sologame:
+    root: /src
+    runner:
+      name: nantoniazzi/jdk8-sologame-runner
+      version: 10.0
